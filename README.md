@@ -12,7 +12,7 @@ This Python script utilizes the OpenAI chat model to generate product reviews fo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/onrbzkrt/commentCreator.git
     ```
 
 2. Install the required Python packages:
